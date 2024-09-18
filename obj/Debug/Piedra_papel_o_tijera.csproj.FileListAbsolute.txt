@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\bin\Debug\Piedra_papel_o_tijera.exe.config
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\bin\Debug\Piedra_papel_o_tijera.exe
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\bin\Debug\Piedra_papel_o_tijera.pdb
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.exe
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.pdb
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\bin\Debug\Piedra_papel_o_tijera.exe.config
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\bin\Debug\Piedra_papel_o_tijera.exe
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\bin\Debug\Piedra_papel_o_tijera.pdb
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.exe
+C:\Users\HP\Desktop\Proyectos de C#\Piedra, Papel o Tijera en Consola\Piedra_papel_o_tijera\obj\Debug\Piedra_papel_o_tijera.pdb
